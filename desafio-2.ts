@@ -24,7 +24,7 @@ let pessoa4 = {
 }
 */
 
-Minha resposta:
+//Minha resposta:
 
 enum Profissao{
     Atriz = "Atriz",
