@@ -191,6 +191,8 @@ async function pegarLista() {
       <button id="search-button">Pesquisar Filme</button>
   </div>
 </div>*/}*/
+
+//Minha reposta:
         
         let apiKey: string;
 let requestToken: object;
