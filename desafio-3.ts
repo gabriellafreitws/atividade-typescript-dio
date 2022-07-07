@@ -24,7 +24,7 @@ botaoLimpar.addEventListener('click', function () {
 });
 */
 
-Minha resposta:
+//Minha resposta:
 
 let botaoAtualizar = document.getElementById('atualizar-saldo') as HTMLButtonElement;
 let botaoLimpar = document.getElementById('limpar-saldo') as HTMLButtonElement;
