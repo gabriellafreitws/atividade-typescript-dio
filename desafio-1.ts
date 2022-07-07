@@ -4,7 +4,7 @@
 employee.code = 10;
 employee.name = "John"; */
 
-Minha resposta:
+//Minha resposta:
 
 const funcionario = {
     codigo: 10,
