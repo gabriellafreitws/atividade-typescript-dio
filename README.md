@@ -1,2 +1,2 @@
-# ✨ atividade typescript dio ✨
-Atividade de TypeScript proposta pela DIO
+# ✨ ATIVIDADE TYPESCRIPT DIO ✨
+> Atividade de TypeScript proposta pela DIO. 💗
